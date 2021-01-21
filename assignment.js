@@ -98,8 +98,3 @@ function megaFriend(Friends){
 }
 
 
-console.log(kilometerToMeter(12.35773));
-console.log(budgetCalculator(1,0,2));
-console.log(hotelCost(22));
-var arr=['dfsf'];
-console.log(megaFriend(arr));
