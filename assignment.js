@@ -1,4 +1,4 @@
-//Github Link
+
 
 // https://github.com/PritomDey303/assignment-3
 
@@ -96,5 +96,4 @@ function megaFriend(Friends){
     }
     return longestName; //Returning Longest Name
 }
-
 
