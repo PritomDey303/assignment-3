@@ -1,5 +1,8 @@
 //Github Link
+
 // https://github.com/PritomDey303/assignment-3
+
+
 
 //kilometerToMeter Function
 
@@ -75,7 +78,7 @@ function hotelCost(numOfDays){
 
 function megaFriend(Friends){
  
-    if(Friends==[]){
+    if(Friends.length==0){
         return "There is no name in the array." //returning errors.
     }
     else{
@@ -93,3 +96,10 @@ function megaFriend(Friends){
     }
     return longestName; //Returning Longest Name
 }
+
+
+console.log(kilometerToMeter(12.35773));
+console.log(budgetCalculator(1,0,2));
+console.log(hotelCost(22));
+var arr=['dfsf'];
+console.log(megaFriend(arr));
