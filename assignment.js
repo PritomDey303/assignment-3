@@ -1,3 +1,6 @@
+//Github Link
+// https://github.com/PritomDey303/assignment-3
+
 //kilometerToMeter Function
 
 function kilometerToMeter(kilometer){
@@ -90,6 +93,3 @@ function megaFriend(Friends){
     }
     return longestName; //Returning Longest Name
 }
-
-var arr=['Rahim',"Raman","Jotirmoy","Bijoy","Jhankar"];
-console.log(megaFriend(arr));
